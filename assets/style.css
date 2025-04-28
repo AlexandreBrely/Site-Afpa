@@ -1,0 +1,23 @@
+header, .menu {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5rem;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+    
+li {
+        display: inline;
+      
+  }
+
+  .cta {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
